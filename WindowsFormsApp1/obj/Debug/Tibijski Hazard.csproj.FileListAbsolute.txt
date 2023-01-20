@@ -1,0 +1,13 @@
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tibijski Hazard.csproj.GenerateResource.Cache
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tibijski Hazard.csproj.CoreCompileInputs.cache
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tibijski Hazard.exe.config
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tibijski Hazard.exe.manifest
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tibijski Hazard.application
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tibijski Hazard.exe
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tibijski Hazard.pdb
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tibijski Hazard.exe.manifest
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tibijski Hazard.application
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tibijski Hazard.exe
+C:\Users\Grzesiu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tibijski Hazard.pdb
